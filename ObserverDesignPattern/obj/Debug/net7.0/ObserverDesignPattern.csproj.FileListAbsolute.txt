@@ -1,0 +1,14 @@
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net7.0\ObserverDesignPattern.exe
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net7.0\ObserverDesignPattern.deps.json
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net7.0\ObserverDesignPattern.runtimeconfig.json
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net7.0\ObserverDesignPattern.dll
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net7.0\ObserverDesignPattern.pdb
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.AssemblyInfoInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.AssemblyInfo.cs
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.dll
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\refint\ObserverDesignPattern.dll
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.pdb
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ObserverDesignPattern.genruntimeconfig.cache
+C:\Users\olgun\OneDrive\Masaüstü\YTM\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net7.0\ref\ObserverDesignPattern.dll
